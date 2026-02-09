@@ -6,7 +6,7 @@ I'm an IT Programming student interested in software development and game tech. 
 
 ---
 
-## 🧑‍💻 Technical Skills
+## Technical Skills
 - **Languages:** Java, Kotlin, C, C++, C#, Python, PHP, JavaScript  
 - **Web Development:** HTML, CSS, Laravel  
 - **Tools & Frameworks:** Git & GitHub, Android Studio, Visual Studio, Jetpack Compose, VS Code, IntelliJ, Unreal Engine 5  
@@ -15,7 +15,7 @@ I'm an IT Programming student interested in software development and game tech. 
 
 ---
 
-## 🖥️ Featured Projects
+## Featured Projects
 My portfolio website: **https://aelayette.github.io**
 - **Mobile Cake Ordering App** – Android app using Jetpack Compose, complete with basic login system and a database
 - **C++ Library Management System** – Employee book tracking & transaction system complete with a database
@@ -23,7 +23,7 @@ My portfolio website: **https://aelayette.github.io**
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - **Email:** payettekael@gmail.com
 - **GitHub:** https://github.com/aelayette  
 - **LinkedIn:** https://www.linkedin.com/in/kael-payette  
