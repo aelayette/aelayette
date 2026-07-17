@@ -1,8 +1,7 @@
 # Kael Payette
 
 **IT Programming Diploma | NSCC**
-
-I'm an IT Programming student interested in software development and game tech. I am currently open to work opportunities, especially in mobile development, game development, and IT support. I enjoy solving problems and helping people directly. I am always learning and curious about how to improve systems and make software both efficient and engaging.
+Hi, I'm Kael, an Honours graduate of NSCC's IT Programming diploma, currently working across full-stack web development and game development. During my work term with AGRG, I designed and built a GIS dashboard template solo, from the backend architecture through to the frontend UI. I was also part of a student team capstone project "S.I.R.E", a real-time incident response simulator (built with React, Node.js, Socket.IO), and outside of coursework I've been developing various game projects in Unreal Engine, working in a hybrid C++/Blueprint workflow. What ties these together is a focus on understanding systems, writing code that's efficient, maintainable, and built with intent. I also have experience with databases and data structures, project management, mobile development (Kotlin, Jetpack Compose), SQL, and Git-based team workflows. I am motivated to learn quickly and contribute effectively.
 
 ---
 
